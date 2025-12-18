@@ -1,12 +1,3 @@
-# Arquivos grandes de dados
-*.pdf
-*.csv
-*.xlsx
-
-# Pastas
-Resultados/
-old_scripts/
-
 # Python
 __pycache__/
 *.pyc
